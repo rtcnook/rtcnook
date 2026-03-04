@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm rtcnook 👋
 
-<!--
-**rtcnook/rtcnook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Android Developer | 🎯 Framework & Device Tree
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android" alt="Android" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python" />
+</p>
+
+---
+
+### 📫 Contact
+
+- 📺 B站: [rtcnook](https://space.bilibili.com/39841550)
+- 📧 Email: rtcnook@gmail.com
+
+---
+
+### 🏆 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rtcnook&show_icons=true&theme=transparent" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtcnook&layout=compact&theme=transparent" height="150" alt="languages" />
+</p>
+
+---
+
+*⚡ 专注于 Android 系统底层与性能优化*
