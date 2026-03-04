@@ -24,10 +24,10 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rtcnook&show_icons=true&theme=default&hide_rank=true)](https://github.com/rtcnook)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtcnook&layout=compact&theme=default)](https://github.com/rtcnook)
-
+![Repos](https://img.shields.io/badge/Repos-58-green)
+![Followers](https://img.shields.io/badge/Followers-8-green)
+![Following](https://img.shields.io/badge/Following-26-green)
+![Stars](https://img.shields.io/badge/Stars-98-green)
 ---
 
-*⚡ 专注于 Android 系统底层与性能优化*
+*⚡ 专注于 Android 应用开发系统底层与性能优化*
