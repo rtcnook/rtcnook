@@ -22,12 +22,11 @@
 
 ---
 
-### 🏆 GitHub Stats
+### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rtcnook&show_icons=true&theme=transparent" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtcnook&layout=compact&theme=transparent" height="150" alt="languages" />
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rtcnook&show_icons=true&theme=default&hide_rank=true)](https://github.com/rtcnook)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtcnook&layout=compact&theme=default)](https://github.com/rtcnook)
 
 ---
 
