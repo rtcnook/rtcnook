@@ -15,6 +15,17 @@
 
 ---
 
+### 🚀 项目展示
+
+| Project | Tech Stack | Description |
+| --- | --- | --- |
+| [everyLive](https://github.com/rtcnook/everyLive) | Compose Multiplatform | Kotlin Compose 跨平台项目 |
+| [MultiplatformVRMovies](https://github.com/rtcnook/MultiplatformVRMovies) | Compose Multiplatform | Kotlin Compose 跨平台项目 |
+| [RNpet_care](https://github.com/rtcnook/RNpet_care) | React Native | RN 宠物护理项目 |
+| [FlutterPetCare](https://github.com/rtcnook/FlutterPetCare) | Flutter | Flutter 宠物护理项目 |
+
+---
+
 ### 📫 Contact
 
 - 📺 B站: [rtcnook](https://space.bilibili.com/39841550)
@@ -29,4 +40,4 @@
 ![Following](https://img.shields.io/badge/dynamic/json?label=Following&query=$.following&url=https://api.github.com/users/rtcnook&style=flat-square)
 ---
 
-*⚡ 专注于 Android 应用开发系统底层与性能优化*
+*⚡ 专注于 Android 应用开发，系统底层与性能优化*
