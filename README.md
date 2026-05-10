@@ -4,25 +4,15 @@
 
 ---
 
-### 🛠 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android" alt="Android" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python" />
-</p>
-
----
 
 ### 🚀 项目展示
 
-| Project | Tech Stack | Description |
-| --- | --- | --- |
-| [everyLive](https://github.com/rtcnook/everyLive) | Compose Multiplatform | Kotlin Compose 跨平台项目 |
-| [MultiplatformVRMovies](https://github.com/rtcnook/MultiplatformVRMovies) | Compose Multiplatform | Kotlin Compose 跨平台项目 |
-| [RNpet_care](https://github.com/rtcnook/RNpet_care) | React Native | RN 宠物护理项目 |
-| [FlutterPetCare](https://github.com/rtcnook/FlutterPetCare) | Flutter | Flutter 宠物护理项目 |
+| Project | Description |
+| --- | --- |
+| [everyLive](https://github.com/rtcnook/everyLive) | Kotlin Compose 跨平台项目 |
+| [ComposeComponentUtils](https://github.com/rtcnook/ComposeComponentUtils) | Compose UI 组件库 |
+| [RNpet_care](https://github.com/rtcnook/RNpet_care) | RN 宠物护理项目 |
+| [FlutterPetCare](https://github.com/rtcnook/FlutterPetCare) | Flutter 宠物护理项目 |
 
 ---
 
