@@ -1,6 +1,6 @@
 # Hi, I'm rtcnook 👋
 
-📱 Android App / Framework Developer
+📱 Android App / Framework Developer  
 🤖 LangChain AI Agent
 
 ---
@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Contact
-- 📧 Email: rtcnook@gmail.com
+- 📧waitting 
 
 ---
 
