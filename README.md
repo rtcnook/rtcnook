@@ -13,6 +13,7 @@
 | [ComposeComponentUtils](https://github.com/rtcnook/ComposeComponentUtils) | Compose UI 组件库 |
 | [RNpet_care](https://github.com/rtcnook/RNpet_care) | RN 宠物护理项目 |
 | [FlutterPetCare](https://github.com/rtcnook/FlutterPetCare) | Flutter 宠物护理项目 |
+| [LangChainAgent](https://github.com/rtcnook/LangChainAgent) | 基于 LangChain 的 AI Agent 实践项目，探索大模型对话、工具调用、上下文记忆与任务编排能力 |
 
 ---
 
