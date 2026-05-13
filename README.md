@@ -24,7 +24,7 @@
 
 | Project | Description |
 | --- | --- |
-| [everyLive](https://github.com/rtcnook/everyLive) | Kotlin / Compose 跨平台应用实践，聚焦多端 UI 复用、业务模块组织与跨平台开发流程 |
+| [MultiplatformVRMovies](https://github.com/rtcnook/MultiplatformVRMovies) / [everyLive](https://github.com/rtcnook/everyLive) | Kotlin / Compose 跨平台应用实践，聚焦多端 UI 复用、业务模块组织与跨平台开发流程 |
 | [ComposeComponentUtils](https://github.com/rtcnook/ComposeComponentUtils) | Jetpack Compose UI 组件库，沉淀常用组件、交互样式和页面开发辅助能力 |
 | [RNpet_care](https://github.com/rtcnook/RNpet_care) | React Native 宠物护理项目，实践移动端业务页面、状态管理和跨端开发体验 |
 | [FlutterPetCare](https://github.com/rtcnook/FlutterPetCare) | Flutter 宠物护理项目，覆盖移动端 UI 构建、页面组织和多平台应用开发 |
